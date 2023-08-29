@@ -1,7 +1,7 @@
 # Formulário com Validação
 
 ### Formulário com validação por campo.
-<<<<<<< HEAD
+
 [<img src="./src/tela1.gif" alt="gif do formulario">]
 
 ## ✨ Sobre o projeto
